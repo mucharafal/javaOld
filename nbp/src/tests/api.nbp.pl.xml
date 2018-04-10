@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfExchangeRatesTable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema instance"><ExchangeRatesTable><Table>A</Table><No>007/A/NBP/2018</No><EffectiveDate>2018-01-10</EffectiveDate>
+<Rates>
+<Rate><Currency>bat (Tajlandia)</Currency><Code>THB</Code><Mid>0.1089</Mid></Rate>
+<Rate><Currency>dolar amerykański</Currency><Code>USD</Code><Mid>3.4999</Mid></Rate>
+<Rate><Currency>dolar australijski</Currency><Code>AUD</Code><Mid>2.7402</Mid></Rate>
+</Rates></ExchangeRatesTable></ArrayOfExchangeRatesTable>
